@@ -1,4 +1,4 @@
-Zggff<gigamaximwachau@gmail.com>
+Zggff&lt;gigamaximwachau@gmail.com&gt;
 
 <!---
 zggff/zggff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
